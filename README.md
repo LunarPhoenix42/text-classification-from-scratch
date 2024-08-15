@@ -1,1 +1,5 @@
-# text-classification-from-scratch
+This repository showcases a project focused on building a text classification model from scratch using the IEMOCAP (Interactive Emotional Dyadic Motion Capture) dataset. Text classification is a fundamental task in Natural Language Processing (NLP), where the goal is to assign predefined categories to text segments. This project demonstrates how to preprocess, build, and train a neural network model using the Keras framework, aiming to classify text data based on emotional content.
+
+The IEMOCAP dataset is particularly well-suited for emotion recognition tasks, as it contains diverse textual data annotated with various emotional labels. By working with this dataset, we explore the intricacies of text classification, from data preprocessing to model evaluation, providing a hands-on approach to understanding machine learning and NLP concepts.
+
+This project serves as a comprehensive guide for those interested in the step-by-step process of developing a text classification model using deep learning techniques. It is designed for both beginners and experienced practitioners looking to delve into emotion detection and text classification using Python and Keras.
